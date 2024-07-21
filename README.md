@@ -45,10 +45,14 @@
 <hr/>
 <br>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <!-- <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <br/><br/><br/> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 <hr/>
