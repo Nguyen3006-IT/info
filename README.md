@@ -2,32 +2,6 @@
     
 </h1> -->
 
-<style>
-.github-animation-coding {
-  height: 20vh;
-}
-
-/* CSS cho điều kiện desktop */
-@media (min-width: 1024px) {
-  .github-animation-coding {
-    display: flex;
-    flex-wrap: nowrap;
-    height: 40vh;
-  }
-}
-
-/* CSS cho điều kiện mobile */
-@media (max-width: 768px) {
-  .github-animation-coding {
-    height: 20vh;
-  }
-@media (max-width: 578px) {
-  .github-animation-coding {
-    height: 10vh;
-  }
-}
-</style>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hoang+Nguyen!;" />
 </div>
@@ -59,7 +33,7 @@
 
 <div class="github-animation-coding" align="center">
   <!-- <img src="httdivs://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" /> -->
-  <img class="computer-coding" width="40%" height=292 src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" />
+  <!-- <img class="computer-coding" width="40%" height=292 src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" /> -->
   <img class="person-coding" width="50%" height=292 src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" />
 </div>
 
