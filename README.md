@@ -1,16 +1,15 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hoang+Nguyen!;" />
-</h1>
-
-<div align="center"> 
-    <!-- <img src="https://i.imgur.com/WAh7Ok0.gif" /> -->
-    <img width="50%" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<!-- <h1 align="center">
     
+</h1> -->
 
-    
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hoang+Nguyen!;" />
 </div>
+<br>
 
-<br/><br/>
+<!-- <div align="center"> 
+    <img src="https://i.imgur.com/WAh7Ok0.gif" />
+</div> -->
 
 <h1 align="center">💻 I'm a Software Developer (Backend) 💻</h1>
 <br/>
@@ -32,9 +31,12 @@
 
 </div>
 
-<p align="center">
-  <!-- <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" /> -->
-  <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" />
+<div align="center">
+  <!-- <img src="httdivs://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" /> -->
+  <article> 
+    <img width="40%" height="292" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" />
+    <img width="50%" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" />
+  </article>
 </p>
 
 <br/><br/>
