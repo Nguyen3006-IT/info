@@ -11,7 +11,7 @@
     <img src="https://i.imgur.com/WAh7Ok0.gif" />
 </div> -->
 
-<h1 align="center">💻 I'm a Software Developer (Backend) 💻</h1>
+<h2 align="center">💻 I'm a Software Developer (Backend) 💻</h2>
 <br/>
 
 <div align="center"> 
@@ -41,7 +41,7 @@
 
 <br/><br/>
 
-<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <!-- <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
@@ -55,7 +55,7 @@
 <br/><br/>
 
 <div align="center">
-  <h1>🐍 My Contributions 🐍</h1>
+  <h2>🐍 My Contributions 🐍</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake.svg">
@@ -65,7 +65,7 @@
 
 <br/><br>
 <br>
-<h1 align="center">🔥 GitHub Stats 🔥</h1>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
 <!-- username là tên github -->
