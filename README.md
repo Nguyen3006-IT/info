@@ -34,7 +34,7 @@
 <div class="github-animation-coding" align="center">
   <!-- <img src="httdivs://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" /> -->
   <!-- <img class="computer-coding" width="40%" height=292 src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" /> -->
-  <img class="person-coding" width="50%" height=292 src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" />
+  <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" />
 </div>
 
 <br/><br/>
