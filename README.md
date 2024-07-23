@@ -60,7 +60,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture> -->
-[https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake.svg)
+    <img src="https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/><br>
