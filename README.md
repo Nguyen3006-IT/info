@@ -55,11 +55,12 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <picture>
+<!--   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
+  </picture> -->
+[https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake.svg)
 </div>
 
 <br/><br>
