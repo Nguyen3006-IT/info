@@ -60,7 +60,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture> -->
-    <img src="https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/NTH-Nguyen3006/NTH-Nguyen3006/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/><br>
@@ -76,9 +76,9 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Nguyen3006-IT&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a> -->
   
-  [![](https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](https://raw.githubusercontent.com/NTH-Nguyen3006/NTH-Nguyen3006/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](https://raw.githubusercontent.com/NTH-Nguyen3006/NTH-Nguyen3006/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/NTH-Nguyen3006/NTH-Nguyen3006/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](https://raw.githubusercontent.com/NTH-Nguyen3006/NTH-Nguyen3006/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Nguyen3006-IT/Nguyen3006-IT/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 
 <h3 align="center">
