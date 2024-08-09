@@ -12,7 +12,7 @@
     <img src="https://i.imgur.com/WAh7Ok0.gif" />
 </div> -->
 
-<h2 align="center">💻 I'm a Software Developer (Backend) 💻</h2>
+<h2 align="center">💻 I'm a Software Developer 💻</h2>
 <br/>
 
 <div align="center"> 
@@ -40,7 +40,7 @@
 
 <br/><br/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <!-- <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
