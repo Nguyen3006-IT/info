@@ -1,5 +1,5 @@
 [My Projects](#end-box)
-[![My Projects]][#end-box]
+[#end-box]: # 'Link with example title.'
 <!-- <h1 align="center">
     
 </h1> -->
