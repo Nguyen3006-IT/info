@@ -35,7 +35,7 @@
 <div class="github-animation-coding" align="center">
   <!-- <img src="httdivs://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" /> -->
   <!-- <img class="computer-coding" width="40%" height=292 src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" /> -->
-  <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAM/software-software-development.gif" />
+  <img width="500" heigh="500 src="https://media.tenor.com/2fXbn6Xtt0UAAAAM/software-software-development.gif" />
 </div>
 
 <br/><br/>
